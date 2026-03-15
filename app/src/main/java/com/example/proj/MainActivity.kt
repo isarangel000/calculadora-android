@@ -228,6 +228,6 @@ class MainActivity : AppCompatActivity() {
 /* BBS os botoes ( e ) nao estao funcionando, funcionaria se pudesse trazer uma biblioteca externa
 pro codigo, mas o bruno pediu tudo os calculo a mão. Ent nao to conseguindo nem com reza braba
 colocar isso. Outro dia eu pego pra arrumar, ou nois tira pq ele nao ta pedindo os ( ), a gnt poe
-uma ft da patixa em cada botão opa.
+uma ft da patixa em cada botão opa. amo
 Mas vou perguntar p ele se precisa mesmo dessew botão, e se precisar eu vejo dps ou arrumem ai
  */
