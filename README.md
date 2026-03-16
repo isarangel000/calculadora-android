@@ -56,8 +56,8 @@ O aplicativo também controla estados internos para saber se o usuário está di
 ## ☕︎ 𝗔𝘂𝘁𝗼𝗿𝗮𝘀
 
 Desenvolvido por 
-**Isabela Rangel**.
-**Ana Clara**.
+**Isabela Rangel**,
+**Ana Clara** e 
 **Isabelli Arantes**.
 ꒒ ০ ⌵ ୧ ♡
 
