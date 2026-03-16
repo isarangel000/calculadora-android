@@ -3,7 +3,7 @@
 Projeto de uma **calculadora simples para Android**, desenvolvida em **Kotlin** utilizando **Android Studio**.  
 O aplicativo realiza operações matemáticas básicas com lógica implementada manualmente, sem uso de bibliotecas externas para cálculo.
 
-##˙⋆✮ 𝗙𝘂𝗻𝗰𝗶𝗼𝗻𝗮𝗹𝗶𝗱𝗮𝗱𝗲𝘀
+## ㅤ♡𝗙𝘂𝗻𝗰𝗶𝗼𝗻𝗮𝗹𝗶𝗱𝗮𝗱𝗲𝘀
 
 - ✚ Soma
 - — Subtração
@@ -15,7 +15,7 @@ O aplicativo realiza operações matemáticas básicas com lógica implementada 
 - 🗑 Botão para apagar o último número digitado
 - ≈ Botão igual para calcular o resultado
 
-## 🛠 𝗧𝗲𝗰𝗻𝗼𝗹𝗼𝗴𝗶𝗮𝘀 𝘂𝘁𝗶𝗹𝗶𝘇𝗮𝗱𝗮𝘀
+## 𝄞⨾𓍢ִ໋ 𝗧𝗲𝗰𝗻𝗼𝗹𝗼𝗴𝗶𝗮𝘀 𝘂𝘁𝗶𝗹𝗶𝘇𝗮𝗱𝗮𝘀
 
 - Kotlin
 - Android Studio
