@@ -1,9 +1,9 @@
-##  ࿔*🧳🏠︎ˎˊ˗ 𝑪𝒂𝒍𝒄𝒖𝒍𝒂𝒅𝒐𝒓𝒂 𝑨𝒏𝒅𝒓𝒐𝒊𝒅 ⋆🏨🛎️࿔*:･
+##  ✎📓🗒ˎˊ˗𝑪𝒂𝒍𝒄𝒖𝒍𝒂𝒅𝒐𝒓𝒂 𝑨𝒏𝒅𝒓𝒐𝒊𝒅 ⋆.ೃ࿔*:･ 
 
 Projeto de uma **calculadora simples para Android**, desenvolvida em **Kotlin** utilizando **Android Studio**.  
 O aplicativo realiza operações matemáticas básicas com lógica implementada manualmente, sem uso de bibliotecas externas para cálculo.
 
-##   📝𝗙𝘂𝗻𝗰𝗶𝗼𝗻𝗮𝗹𝗶𝗱𝗮𝗱𝗲𝘀
+##   ♡ 𝗙𝘂𝗻𝗰𝗶𝗼𝗻𝗮𝗹𝗶𝗱𝗮𝗱𝗲𝘀
 
 - ✚ Soma
 - — Subtração
